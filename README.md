@@ -30,5 +30,5 @@ $ docker run -it --rm heroku-cli:0.0.1
 
 ### Heroku CLI Example
 
-To run a sample app for Heroku deployment, please use the [Heroku Docker Example](https://github.com/leimao/Heroku-Docker-Example) and follow the instructions in the README.
+To deploy a sample app on Heroku, please use the [Heroku Docker Example](https://github.com/leimao/Heroku-Docker-Example) and follow the instructions in the README.
 
