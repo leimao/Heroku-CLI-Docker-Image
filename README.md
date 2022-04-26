@@ -14,7 +14,7 @@ To build the Docker image, please run the following command.
 $ docker build -f heroku-cli.Dockerfile --no-cache --tag=heroku-cli:0.0.1 .
 ```
 
-In case the user wants to configure the Git user information, please run the following command.
+In case the user wants to configure the Git user information, please use the personal Git user email and user name and run the following command.
 
 ```bash
 $ docker build -f heroku-cli.Dockerfile --build-arg GIT_USER_EMAIL="dukeleimao@gmail.com" --build-arg GIT_USER_NAME="Lei Mao" --no-cache --tag=heroku-cli:0.0.1 .
