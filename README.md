@@ -2,7 +2,9 @@
 
 ## Introduction
 
-Unlike Google Cloud, Heroku does not provide an official CLI Docker image for users on [Docker Hub](https://hub.docker.com/u/heroku). This is a custom Docker image containing Heroku CLI. It is especially useful for application deployment on Heroku.
+Unlike Google Cloud, Heroku does not provide an official CLI Docker image for users on [Docker Hub](https://hub.docker.com/u/heroku). 
+
+In this repository, we created a custom Docker image containing Heroku CLI. It is especially useful for application deployment on Heroku.
 
 ## Usages
 
